@@ -21,13 +21,13 @@ public class 01 : MonoBehaviour
    Z7(c,d);
 
 
-
+   //4 zadanie
   
 public void Z4(int a, float b, bool c, bool d, string e, string f ){
         Debug.Log("a: " + a + " b: " + b + " c: " + c +" d: " + d + "e: " + e + " f: " + f);
         }
 
-
+        //5 zadanie 
 
    public void Z5(int a, float b)
     {
@@ -63,7 +63,7 @@ public void Z4(int a, float b, bool c, bool d, string e, string f ){
     }
 
 
-
+    //6 zadanie 
 
     public void Z6(string e, string f)
     {
@@ -72,6 +72,7 @@ public void Z4(int a, float b, bool c, bool d, string e, string f ){
 
     }
 
+    //7 zadanie
     public void Z7(bool c, bool d)
     {
         Debug.Log("c && d: " + (c && d));
