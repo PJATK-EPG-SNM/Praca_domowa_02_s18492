@@ -22,6 +22,7 @@ public class 01 : MonoBehaviour
 
 
    //4 zadanie
+    //wyswietlienie zmiennych 
   
 public void Z4(int a, float b, bool c, bool d, string e, string f ){
         Debug.Log("a: " + a + " b: " + b + " c: " + c +" d: " + d + "e: " + e + " f: " + f);
@@ -75,8 +76,10 @@ public void Z4(int a, float b, bool c, bool d, string e, string f ){
     //7 zadanie
     public void Z7(bool c, bool d)
     {
-        Debug.Log("c && d: " + (c && d));
-        Debug.Log("c || d: " + (c || d));
+    //koniunkcja
+        Debug.Log("c && d: " + (c && d)); 
+        //alternatywa
+        Debug.Log("c || d: " + (c || d)); 
 
     }
    
