@@ -25,7 +25,7 @@ public class 01 : MonoBehaviour
     //wyswietlienie zmiennych 
   
 public void Z4(int a, float b, bool c, bool d, string e, string f ){
-        Debug.Log("a: " + a + " b: " + b + " c: " + c +" d: " + d + "e: " + e + " f: " + f);
+        Debug.Log("a: " + a + " b: " + b + " c: " + c +" d: " + d + " e: " + e + " f: " + f);
         }
 
         //5 zadanie 
@@ -33,33 +33,33 @@ public void Z4(int a, float b, bool c, bool d, string e, string f ){
    public void Z5(int a, float b)
     {
         if (a == b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie ");
 
 
         if (a != b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie ");
 
 
         if (a > b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie ");
 
 
         if (a >= b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie ");
 
 
         if (a < b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie");
 
 
         if (a <= b)
-            Debug.Log("tak");
-        else Debug.Log("nie");
+            Debug.Log(" tak ");
+        else Debug.Log(" nie ");
 
     }
 
